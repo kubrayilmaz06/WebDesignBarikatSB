@@ -8,7 +8,6 @@ namespace WebDesignProject.Controllers
 {
     public class HomeController : Controller
     {
-        //melek
         // GET: Home
         public ActionResult HomePage()
         {
